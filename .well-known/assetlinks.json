@@ -1,0 +1,25 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app_staging",
+      "package_name": "world.centa3.debug",
+      "sha256_cert_fingerprints": [
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app_production",
+      "package_name": "world.centa3",
+      "sha256_cert_fingerprints": [
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
+        "d9:8c:a2:b4:62:b4:ef:91:98:35:03:3e:94:f5:37:af:fb:8c:a9:88:54:3a:9f:4a:42:5b:b0:ab:65:49:ef:81",
+        "56:d5:f9:1f:61:01:fb:c8:72:bd:05:5a:1e:28:58:8e:45:cd:87:23:c8:04:d5:4f:58:7d:dc:5a:39:0c:b2:e1",
+        "5b:bf:51:62:b8:f7:3f:68:e1:52:0b:ab:e5:ed:c1:3e:8f:a5:80:0e:8b:4a:9d:99:bb:ab:7c:55:24:29:8a:e0"
+      ]
+    }
+  }
+]

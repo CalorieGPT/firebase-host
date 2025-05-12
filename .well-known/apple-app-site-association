@@ -1,0 +1,33 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "PQWVQZZ2WR.app.centenarian",
+        "paths": [
+          "NOT /_/",
+          "/"
+        ]
+      },
+      {
+        "appID": "PQWVQZZ2WR.app.centenarian.debug",
+        "paths": [
+          "NOT /_/",
+          "/"
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "PQWVQZZ2WR.app.centenarian",
+      "PQWVQZZ2WR.app.centenarian.debug"
+    ]
+  },
+  "activitycontinuation": {
+    "apps": [
+      "PQWVQZZ2WR.app.centenarian",
+      "PQWVQZZ2WR.app.centenarian.debug"
+    ]
+  }
+}
